@@ -6,3 +6,9 @@
 ROS2/build/
 ROS2/install/
 ROS2/log/
+# Detection (Python, runs on laptop)
+Detection/.venv/
+Detection/checkpoints/
+Detection/data/
+__pycache__/
+Firmware/build/

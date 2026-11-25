@@ -1,6 +1,6 @@
 {
   "folders": [
-    { "path": ".", "name": "TiltSLAMRobot" },
+    { "path": ".", "name": "PDetectorRobot" },
     { "path": "ROS2", "name": "ROS2" }
   ],
   "settings": {

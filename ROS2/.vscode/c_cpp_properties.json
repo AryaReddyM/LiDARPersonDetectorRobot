@@ -2,7 +2,7 @@
   "configurations": [
     {
       "name": "ROS2",
-      "compileCommands": "${workspaceFolder}/build/tiltslam_base/compile_commands.json",
+      "compileCommands": "${workspaceFolder}/build/pdetector_base/compile_commands.json",
       "compilerPath": "/usr/bin/g++",
       "intelliSenseMode": "linux-gcc-arm64",
       "cStandard": "c17",
